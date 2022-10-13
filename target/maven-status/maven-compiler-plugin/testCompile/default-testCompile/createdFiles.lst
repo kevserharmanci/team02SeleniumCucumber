@@ -1,3 +1,6 @@
 stepDefinitions\TutorialsninjaKiyas.class
+pages\EditorDataTablesPage.class
 stepDefinitions\BlueRentalCars.class
 stepDefinitions\Trendyolsearch.class
+stepDefinitions\EditorDataTablesStepDef.class
+stepDefinitions\TheInternetHerOkuStepDef.class
