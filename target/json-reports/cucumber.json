@@ -1,0 +1,310 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2022-10-14T06:56:35.195Z",
+        "line": 9,
+        "name": "TC01_kullanici_sutun_basligi_ile_liste_alabilmeli",
+        "description": "",
+        "id": "us012-class-work;tc01-kullanici-sutun-basligi-ile-liste-alabilmeli;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 8554839400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Kullanici \"guruUrl\" sayfasina gider",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"guruUrl\"",
+                  "offset": 10
+                }
+              ],
+              "location": "stepDefinitions.AmazonSearc.kullaniciSayfasinaGider(java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1909047900,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "\"Company\" sutunundaki tum degerleri yazdirir",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Company\"",
+                  "offset": 0
+                }
+              ],
+              "location": "stepDefinitions.GuruStepDef.sutunundakiTumDegerleriYazdirir(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@US012"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-10-14T06:56:45.827Z",
+        "line": 10,
+        "name": "TC01_kullanici_sutun_basligi_ile_liste_alabilmeli",
+        "description": "",
+        "id": "us012-class-work;tc01-kullanici-sutun-basligi-ile-liste-alabilmeli;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 2292653700,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Kullanici \"guruUrl\" sayfasina gider",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"guruUrl\"",
+                  "offset": 10
+                }
+              ],
+              "location": "stepDefinitions.AmazonSearc.kullaniciSayfasinaGider(java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 843507200,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "\"Group\" sutunundaki tum degerleri yazdirir",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Group\"",
+                  "offset": 0
+                }
+              ],
+              "location": "stepDefinitions.GuruStepDef.sutunundakiTumDegerleriYazdirir(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@US012"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-10-14T06:56:48.998Z",
+        "line": 11,
+        "name": "TC01_kullanici_sutun_basligi_ile_liste_alabilmeli",
+        "description": "",
+        "id": "us012-class-work;tc01-kullanici-sutun-basligi-ile-liste-alabilmeli;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 946296000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Kullanici \"guruUrl\" sayfasina gider",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"guruUrl\"",
+                  "offset": 10
+                }
+              ],
+              "location": "stepDefinitions.AmazonSearc.kullaniciSayfasinaGider(java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1243965500,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "\"Prev Close (Rs)\" sutunundaki tum degerleri yazdirir",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Prev Close (Rs)\"",
+                  "offset": 0
+                }
+              ],
+              "location": "stepDefinitions.GuruStepDef.sutunundakiTumDegerleriYazdirir(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@US012"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-10-14T06:56:51.215Z",
+        "line": 12,
+        "name": "TC01_kullanici_sutun_basligi_ile_liste_alabilmeli",
+        "description": "",
+        "id": "us012-class-work;tc01-kullanici-sutun-basligi-ile-liste-alabilmeli;;5",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 892444000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Kullanici \"guruUrl\" sayfasina gider",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"guruUrl\"",
+                  "offset": 10
+                }
+              ],
+              "location": "stepDefinitions.AmazonSearc.kullaniciSayfasinaGider(java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1001420200,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "\"Current Price (Rs)\" sutunundaki tum degerleri yazdirir",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Current Price (Rs)\"",
+                  "offset": 0
+                }
+              ],
+              "location": "stepDefinitions.GuruStepDef.sutunundakiTumDegerleriYazdirir(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@US012"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-10-14T06:56:53.143Z",
+        "line": 13,
+        "name": "TC01_kullanici_sutun_basligi_ile_liste_alabilmeli",
+        "description": "",
+        "id": "us012-class-work;tc01-kullanici-sutun-basligi-ile-liste-alabilmeli;;6",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1220121900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Kullanici \"guruUrl\" sayfasina gider",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"guruUrl\"",
+                  "offset": 10
+                }
+              ],
+              "location": "stepDefinitions.AmazonSearc.kullaniciSayfasinaGider(java.lang.String)"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 944454100,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "\"% Change\" sutunundaki tum degerleri yazdirir",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"% Change\"",
+                  "offset": 0
+                }
+              ],
+              "location": "stepDefinitions.GuruStepDef.sutunundakiTumDegerleriYazdirir(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@US012"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2022-10-14T06:56:55.325Z",
+        "line": 15,
+        "name": "Sayfayi Kapat",
+        "description": "",
+        "id": "us012-class-work;sayfayi-kapat",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 321813800,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "kullanici browser i kapatir",
+            "match": {
+              "location": "stepDefinitions.AmazonSearc.kullaniciBrowserIKapatir()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@US012"
+          }
+        ]
+      }
+    ],
+    "name": "US012 Class Work",
+    "description": "",
+    "id": "us012-class-work",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/US009_ScenarioOutlineGuru.feature",
+    "tags": [
+      {
+        "name": "@US012",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]

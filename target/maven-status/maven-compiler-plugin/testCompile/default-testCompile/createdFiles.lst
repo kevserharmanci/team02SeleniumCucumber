@@ -1,5 +1,6 @@
 stepDefinitions\TutorialsninjaKiyas.class
 pages\EditorDataTablesPage.class
+stepDefinitions\GuruStepDef.class
 stepDefinitions\BlueRentalCars.class
 stepDefinitions\Trendyolsearch.class
 stepDefinitions\EditorDataTablesStepDef.class

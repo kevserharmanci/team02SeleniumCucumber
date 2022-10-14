@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="6" time="20.799">
+    <testcase classname="US012 Class Work" name="TC01_kullanici_sutun_basligi_ile_liste_alabilmeli" time="10.592">
+        <system-out>
+            <![CDATA[Given Kullanici "guruUrl" sayfasina gider...................................passed
+Then "Company" sutunundaki tum degerleri yazdirir...........................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="US012 Class Work" name="TC01_kullanici_sutun_basligi_ile_liste_alabilmeli_2" time="3.14">
+        <system-out>
+            <![CDATA[Given Kullanici "guruUrl" sayfasina gider...................................passed
+Then "Group" sutunundaki tum degerleri yazdirir.............................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="US012 Class Work" name="TC01_kullanici_sutun_basligi_ile_liste_alabilmeli_3" time="2.193">
+        <system-out>
+            <![CDATA[Given Kullanici "guruUrl" sayfasina gider...................................passed
+Then "Prev Close (Rs)" sutunundaki tum degerleri yazdirir...................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="US012 Class Work" name="TC01_kullanici_sutun_basligi_ile_liste_alabilmeli_4" time="1.897">
+        <system-out>
+            <![CDATA[Given Kullanici "guruUrl" sayfasina gider...................................passed
+Then "Current Price (Rs)" sutunundaki tum degerleri yazdirir................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="US012 Class Work" name="TC01_kullanici_sutun_basligi_ile_liste_alabilmeli_5" time="2.165">
+        <system-out>
+            <![CDATA[Given Kullanici "guruUrl" sayfasina gider...................................passed
+Then "% Change" sutunundaki tum degerleri yazdirir..........................passed
+]]>
+        </system-out>
+    </testcase>
+    <testcase classname="US012 Class Work" name="Sayfayi Kapat" time="0.324">
+        <system-out>
+            <![CDATA[And kullanici browser i kapatir.............................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
